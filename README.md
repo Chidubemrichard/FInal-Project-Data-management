@@ -1,2 +1,0 @@
-# FInal Project Data management
-
